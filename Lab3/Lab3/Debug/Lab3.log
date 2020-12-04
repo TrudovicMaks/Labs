@@ -1,0 +1,33 @@
+﻿Построение начато 04.12.2020 11:44:17.
+     1>Проект "C:\Users\toshiba\Desktop\Шарага\ЛиОАвИЗ\Lab3\Lab3\Lab3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab3.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Lab3.cpp
+         Lab3.cpp
+     1>c:\users\toshiba\desktop\шарага\лиоавиз\lab3\lab3\lab3.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\toshiba\desktop\шарага\лиоавиз\lab3\lab3\lab3.cpp(132): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\toshiba\desktop\шарага\лиоавиз\lab3\lab3\lab3.cpp(132): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\toshiba\desktop\шарага\лиоавиз\lab3\lab3\lab3.cpp(138): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\toshiba\Desktop\Шарага\ЛиОАвИЗ\Lab3\Debug\Lab3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Lab3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\toshiba\Desktop\Шарага\ЛиОАвИЗ\Lab3\Debug\Lab3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\toshiba\Desktop\Шарага\ЛиОАвИЗ\Lab3\Debug\Lab3.lib" /MACHINE:X86 Debug\Lab3.exe.embed.manifest.res
+         Debug\Lab3.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Lab3.exe.embed.manifest" /manifest Debug\Lab3.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Lab3.vcxproj -> C:\Users\toshiba\Desktop\Шарага\ЛиОАвИЗ\Lab3\Debug\Lab3.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab3.lastbuildstate".
+     1>Построение проекта "C:\Users\toshiba\Desktop\Шарага\ЛиОАвИЗ\Lab3\Lab3\Lab3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.82
