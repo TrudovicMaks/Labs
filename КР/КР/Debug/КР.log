@@ -1,4 +1,4 @@
-﻿Построение начато 14.01.2021 16:39:21.
+﻿Построение начато 17.01.2021 11:33:17.
      1>Проект "C:\Users\toshiba\Desktop\Шарага\ЛиОАвИЗ\Курсач\КР\КР\КР.vcxproj" в узле 2 (целевые объекты build).
      1>InitializeBuildStatus:
          Создание "Debug\КР.unsuccessfulbuild", так как было задано "AlwaysCreate".
@@ -12,11 +12,9 @@
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
      1>c:\users\toshiba\desktop\шарага\лиоавиз\курсач\кр\кр\кр.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
-     1>c:\users\toshiba\desktop\шарага\лиоавиз\курсач\кр\кр\кр.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
-     1>c:\users\toshiba\desktop\шарага\лиоавиз\курсач\кр\кр\кр.cpp(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\toshiba\desktop\шарага\лиоавиз\курсач\кр\кр\кр.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
-     1>c:\users\toshiba\desktop\шарага\лиоавиз\курсач\кр\кр\кр.cpp(109): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+     1>c:\users\toshiba\desktop\шарага\лиоавиз\курсач\кр\кр\кр.cpp(98): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
        ManifestResourceCompile:
          Для всех выходных данных обновления не требуется.
@@ -37,4 +35,4 @@
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:06.81
+Затраченное время: 00:00:08.79
